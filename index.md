@@ -10,5 +10,5 @@ I believe that one can only be maximally benefited from education by being put i
 ## Current Interests and Focus:
 
 - Understanding educational psychology to better help people who want to learn new things effectively
-- Learning some Python basic since today tech is becoming an indispensible part in everyone's life
+- Learning some Python basics since today tech is becoming an indispensible part in everyone's life
 - TBD
