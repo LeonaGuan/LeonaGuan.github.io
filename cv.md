@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 ## Currently
 
-I am currently studying ***Educational Psychology*** at ***University of Wisconsin-Madison*** and I will start graudate school study in ***Global Higher Education*** in Fall 2019! 
+I am currently studying ***Educational Psychology*** at ***University of Wisconsin-Madison*** and I will start graudate school study in ***Global Higher Education*** in Fall 2020! 
 
 ## Education
 
@@ -51,7 +51,7 @@ Dean Honour List *all academic terms*
 University Entry Scholarship
 
 ## Certificates
-__CELTA__
+__Certicate in Teaching English to Speakers of Other Languages (CELTA)__
 
 - Cambridge English Level 5
 
@@ -64,6 +64,9 @@ __Teaching Knowledge Test (TKT) from Cambridge ESOL__
 ## Activities 
 `2019.03`
 __Conference on Teaching and Research in Overseas Testing__ 
+
+`2018.04 - 2018.05`
+__English Teacher for Refugee Students in Thailand__
 
 <!-- ### Footer
 
